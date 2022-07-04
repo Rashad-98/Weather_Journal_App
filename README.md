@@ -11,3 +11,7 @@ This is achieved using two asynchronous functions in the app.js. Also the app ca
 
 ## dependencies
 - Node JS
+
+## setup instructions
+- clone the project to your machine
+- navigate to the project's root folder in your terminal and type: ***npm run start***s
