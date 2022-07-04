@@ -14,4 +14,5 @@ This is achieved using two asynchronous functions in the app.js. Also the app ca
 
 ## setup instructions
 - clone the project to your machine
-- navigate to the project's root folder in your terminal and type: ***npm run start***s
+- navigate to the project's root folder in your terminal and type: ***npm run start***
+- go to your browser and visit **localhost:8000**
